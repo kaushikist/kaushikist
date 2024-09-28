@@ -40,4 +40,4 @@ I'm always excited to collaborate on interesting projects or discuss new ideas. 
 
 - 💌 **Email**: kaushikist23@gmail.com
 - 🌐 [**Portfolio**](#) (Coming Soon)
-- 💼 [**LinkedIn**](#)
+- 💼 [**LinkedIn**](#):   https://www.linkedin.com/in/kaushiki-t-2ab0312bb/
