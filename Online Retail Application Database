@@ -1,5 +1,10 @@
 Online Retail Application Database
- basic outline of the database schema to get you started:
+
+Basic outline of the database schema:
+Key Points
+User Authentication: Ensure secure storage of passwords, possibly using hashing techniques.
+Order and Billing: Each order generates a bill based on the quantity, price, and discount of the purchased items.
+Relationships: Proper use of foreign keys to maintain data integrity between tables.
 
 Tables and Relationships
 1. Users
