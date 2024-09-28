@@ -38,6 +38,6 @@ Here are a few highlights of my recent work:
 
 I'm always excited to collaborate on interesting projects or discuss new ideas. Feel free to reach out to me!
 
-- 💌 **Email**: kaushikitripathi@example.com
+- 💌 **Email**: kaushikist23@gmail.com
 - 🌐 [**Portfolio**](#) (Coming Soon)
 - 💼 [**LinkedIn**](#)
