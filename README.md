@@ -1,6 +1,6 @@
 # Hi there, I'm Kaushiki Tripathi! 👋
 
-🎨 **Aspiring Frontend Developer** <br>
+
 💻 **Passionate about creating dynamic and responsive websites** <br>
 🚀 **Building projects from simple calculators to complete web apps** <br>
 
