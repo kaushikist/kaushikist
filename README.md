@@ -8,7 +8,7 @@
 
 ## 🌟 About Me
 
-I'm Kaushiki, a frontend developer with a passion for crafting elegant user interfaces and experiences. My journey in web development has been both exciting and challenging, and I've had the opportunity to work on several projects:
+I'm Kaushiki, a developer with a passion for crafting elegant user interfaces and experiences. My journey in web development has been both exciting and challenging, and I've had the opportunity to work on several projects:
 
 - 🧮 **Simple Calculators** – Implementing basic arithmetic functions with clean, user-friendly UI.
 - 🌐 **Responsive Websites** – Developing sites that look stunning on all devices, using HTML, CSS, JavaScript, and frameworks.
